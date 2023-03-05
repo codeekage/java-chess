@@ -12,6 +12,7 @@ import chess.pieces.Piece;
 public class Tile {
 	private boolean occupied;
 	private Piece piece;
+	int x=99999 ; 
 
 	/**
 	 * 
