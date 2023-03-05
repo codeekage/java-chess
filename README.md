@@ -1,2 +1,2 @@
 # java-chess
-java-chess-game
+java-chess-game v2
